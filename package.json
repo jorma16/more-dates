@@ -1,6 +1,6 @@
 {
   "name": "more-dates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "javascript library to get random dates",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/jorma16/more-dates.git"
   },
-  "keywords": ["dates", "random", "random dates", "generator", "seed"],
+  "keywords": [
+    "dates",
+    "random",
+    "random dates",
+    "generator",
+    "seed"
+  ],
   "author": "j0rma",
   "license": "MIT",
   "bugs": {
@@ -74,5 +80,4 @@
       "**/*.mock.js"
     ]
   }
-
 }
